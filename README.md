@@ -1,5 +1,5 @@
 # Fresh Service App running in Fresh Service portal.
-Demonstrated that how to develop Fresh Service (https://freshservice.com/) app using FDK (provided by FreshWorks (https://www.freshworks.com/).
+Demonstrate that how to develop Fresh Service (https://freshservice.com/) app using FDK (provided by FreshWorks (https://www.freshworks.com/).
 # What is this application about?
 This application is Fresh Service app which is hosted and run within Fresh Service portal. Fresh Service https://freshservice.com/ allows to develop, publish and add third party applicationd developed using FDK provided by https://www.freshworks.com/.
 This app uses FDK to develop custom-app, leverages Fresh Service's DATA API to fetch various information about the ticket and requester. It has "Show Ticket Details" button and clicking on it, it shows more information about the selected ticket.
