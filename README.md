@@ -1,13 +1,13 @@
-# Fresh Service App running in Fresh Service portal.
+# Fresh Service custome app rendered and displayed in Fresh Service portal.
 This is a Fresh Service (https://freshservice.com/) app developed using FDK https://developers.freshdesk.com/docs/freshdesk-sdk/ (provided by FreshWorks (https://www.freshworks.com/).
 
-# What is this application about?
-This application is Fresh Service app which is hosted and run within Fresh Service portal. Fresh Service https://freshservice.com/ allows to develop, publish and add third party application developed using FDK provided by https://www.freshworks.com/.
+# What is this application?
+This application is Fresh Service app which is rendered and displayed within Fresh Service portal. Fresh Service https://freshservice.com/ allows to develop, publish and install third party application developed using FDK provided by https://www.freshworks.com/.
 
 This app uses FDK to develop custom-app, leverages Fresh Service's DATA API to fetch various information about the ticket and requester. It has "Show Ticket Details" button and clicking on it, it shows more information about the selected ticket.
 
 # Is this application published on Fresh Service market place?
-No. This app runs in development mode and not published on market place.
+No. This app runs in development mode and NOT published on market place.
 But you can find many published application at Fresh Service market place https://apps.freshservice.com/
 You MUST have to pusblish the devloped app on Fresh Service market place if you want the app to be used by end useres.
 
