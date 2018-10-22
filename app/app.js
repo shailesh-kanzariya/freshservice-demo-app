@@ -13,7 +13,7 @@
                 function(error) {
                     console.log(error);
                 }
-            );//opens the modal which will display the ticket and associated data
+            );//opens the modal which will display the ticket and requester data
     };
     initHandlers = function() {
         $(document).on("click", "#startDemo", initDemoApp);
