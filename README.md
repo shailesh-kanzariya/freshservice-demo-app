@@ -1,5 +1,5 @@
 # Fresh Service custom app rendered and displayed in Fresh Service portal.
-This is a Fresh Service (https://freshservice.com/) app developed using FDK https://developers.freshdesk.com/docs/freshdesk-sdk/ (provided by FreshWorks (https://www.freshworks.com/).
+This is a Fresh Service (https://freshservice.com/) app developed using FDK https://developers.freshservice.com/docs/quick-start/ (provided by FreshWorks (https://www.freshworks.com/).
 
 ## What is this application?
 This application is Fresh Service app which is rendered and displayed within Fresh Service portal. Fresh Service https://freshservice.com/ allows to develop, publish and install third party application developed using FDK provided by https://www.freshworks.com/.
