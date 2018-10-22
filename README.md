@@ -8,6 +8,11 @@ No. This app runs in development mode and not published on market place.
 # How can I run this application?
 First, set up FDK provided by https://www.freshworks.com/ by following documentation provided with it. Then, use "fdk run" command to run this application. You need to append "?dev=true" at the end of Fresh Service URL so it will look like "https://yourdomain.freshservice.com/helpdesk/tickets/1?dev=true.
 # How this Fresh Service app look like when it run into Fresh Service portal?
-
+### Fresh Service App located at side bar of ticket details view
+![FreshService App at ticket side bar location](https://github.com/shailesh-kanzariya/freshservice-demo-app/blob/master/app_screenshots/app_ticket-side_bar.png)
+### Fresh Service App showing modal view with ticket details
+![Fresh Service App - Ticket Details View](https://github.com/shailesh-kanzariya/freshservice-demo-app/blob/master/app_screenshots/app_tiket_details.png)
+### Fresh Service App showing modal view with ticket requester details
+![Fresh Service App - Ticket Requester Details](https://github.com/shailesh-kanzariya/freshservice-demo-app/blob/master/app_screenshots/app_req_details.png)
 # How can I get more help?
 Send your quetsions or concerns @ shailesh.kanzariya@gmail.com
