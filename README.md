@@ -1,4 +1,4 @@
-# freshservice-demo-app
+# Fresh Service App running in Fresh Service portal.
 Demonstrated that how to develop Fresh Service (https://freshservice.com/) app using FDK (provided by FreshWorks (https://www.freshworks.com/).
 # What is this application about?
 This application is Fresh Service app which is hosted and run within Fresh Service portal. Fresh Service https://freshservice.com/ allows to develop, publish and add third party applicationd developed using FDK provided by https://www.freshworks.com/.
