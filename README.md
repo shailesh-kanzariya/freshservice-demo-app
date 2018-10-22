@@ -8,8 +8,8 @@ This app uses FDK to develop custom-app, leverages Fresh Service's DATA API to f
 
 ## Is this application published on Fresh Service market place?
 No. This app runs in development mode and NOT published on market place.
-But you can find many published application at Fresh Service market place https://apps.freshservice.com/
-You MUST have to pusblish the devloped app on Fresh Service market place if you want the app to be used by end useres.
+But you can find many published application at Fresh Service market place https://apps.freshservice.com/.
+You MUST have to publish the devloped app on Fresh Service market place if you want the app to be used by end useres.
 
 ## How can I run this application?
 First, set up FDK provided by https://www.freshworks.com/ by following documentation provided with it. Then, use "fdk run" command to run this application. You need to append "?dev=true" at the end of Fresh Service URL so it will look like "https://yourdomain.freshservice.com/helpdesk/tickets/1?dev=true.
