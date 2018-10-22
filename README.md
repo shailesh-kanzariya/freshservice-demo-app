@@ -1,4 +1,4 @@
-# Fresh Service custome app rendered and displayed in Fresh Service portal.
+# Fresh Service custom app rendered and displayed in Fresh Service portal.
 This is a Fresh Service (https://freshservice.com/) app developed using FDK https://developers.freshdesk.com/docs/freshdesk-sdk/ (provided by FreshWorks (https://www.freshworks.com/).
 
 # What is this application?
